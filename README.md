@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pratama3193
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Mobile Programming
 - 🌱 I’m currently learning Java and Dart
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Instagram @mahera___

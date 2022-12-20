@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Programming
 - 🌱 I’m currently learning Java and Dart
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on Instagram @mahera___
+- 📫 How to reach me on Instagram @mahe.raa___
 
 <!---
 Pratama3193/Pratama3193 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

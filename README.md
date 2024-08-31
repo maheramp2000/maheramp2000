@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @maheramp2000
+- 👋 Hi, I’m Mahera
 - 👀 I’m interested in Mobile Programming
 - 🌱 I’m currently learning Java and Dart
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Instagram @mahe.raa___
 
 <!---

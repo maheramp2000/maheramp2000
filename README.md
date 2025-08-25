@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Mahera
 - 👀 I’m interested in Mobile Programming
 - 🌱 I’m currently learning Java and Dart
 - 📫 How to reach me on Instagram @mhee.raa___

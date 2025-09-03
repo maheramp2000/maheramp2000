@@ -1,5 +1,4 @@
-- 👀 I’m interested in Mobile Programming
-- 🌱 I’m currently learning Java and Dart
+- 👀 I’m interested in Programming(Web, Mobile Apps)
 - 📫 How to reach me on Instagram @mhee.raa___
 
 <!---
